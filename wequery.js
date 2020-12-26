@@ -8,7 +8,7 @@ $(document).ready(function(){
    
 
     $("#web").click(function(){
-      alert(" Do you want a websight")
+      alert(" patti pkuuuuuuuu")
      
       
    })

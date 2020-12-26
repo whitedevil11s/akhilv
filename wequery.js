@@ -8,13 +8,13 @@ $(document).ready(function(){
    
 
     $("#web").click(function(){
-      alert(" patti pkuuuuuuuu")
+      alert(" do you want a websight")
      
       
    })
 
    $("#hack").click(function(){
-      alert("vs ye aliyan phone vilicha")
+      alert("do you want to hack")
      
       
    })

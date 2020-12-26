@@ -20,7 +20,7 @@ $(document).ready(function(){
    })
 
    $("#cloud").click(function(){
-      alert(" Do you want cloud storage")
+      alert(" kalla patti thendi vishnu")
      
       
    })

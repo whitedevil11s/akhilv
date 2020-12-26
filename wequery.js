@@ -14,7 +14,7 @@ $(document).ready(function(){
    })
 
    $("#hack").click(function(){
-      alert("Do you want to hack system")
+      alert("vs ye aliyan phone vilicha")
      
       
    })

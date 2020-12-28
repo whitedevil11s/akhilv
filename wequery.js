@@ -8,7 +8,7 @@ $(document).ready(function(){
    
 
     $("#web").click(function(){
-      alert(" do you want a websight")
+      alert(" prekshe sughamano!!!!")
      
       
    })

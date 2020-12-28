@@ -8,7 +8,7 @@ $(document).ready(function(){
    
 
     $("#web").click(function(){
-      alert(" prekshe sughamano!!!!")
+      alert("  sughamano!!!!")
      
       
    })
@@ -20,7 +20,7 @@ $(document).ready(function(){
    })
 
    $("#cloud").click(function(){
-      alert(" kalla patti thendi vishnu")
+      alert(" do you want cloud storage")
      
       
    })
